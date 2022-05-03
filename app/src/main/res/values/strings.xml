@@ -8,5 +8,7 @@
     <string name="salvar">Salvar</string>
     <string name="informeTitulo">Informe o Titulo</string>
     <string name="informeData">Informe a data de conclusão</string>
+    <string name="concluida">Concluido</string>
+    <string name="aberta">Aberta</string>
 
 </resources>
